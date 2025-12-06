@@ -14,15 +14,6 @@ Building scalable, high-performance systems powering **50,000+ concurrent users*
 - 🧑‍🤝‍🧑 **Looking to collaborate on:**  
   System design, backend architecture, microservices, high-concurrency platforms, scalable APIs, cloud engineering, and automation pipelines.
 
-- 🤝 **Looking for help with:**  
-  Deepening expertise in **Kubernetes, event-driven systems**, and advanced cloud optimization.
-
-- 🌱 **Currently learning:**  
-  - Kubernetes & container orchestration  
-  - Event-driven microservices (Kafka/RabbitMQ)  
-  - Advanced AWS architecture  
-  - High-availability system patterns  
-
 - 💬 **Ask me about:**  
   Backend architecture, performance tuning, microservices, REST API design, Redis caching, WebSockets/Socket.io, S3 media workflows, MongoDB optimization, CI/CD, and cloud cost reduction.
 
