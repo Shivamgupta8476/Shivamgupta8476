@@ -2,23 +2,7 @@
 🚀 **Shivam Gupta**  
 **Backend Architect • Tech Lead • SaaS Engineer (Node.js | NestJS | AWS)**  
 
-Building scalable, high-performance systems powering **50,000+ concurrent users**, real-time communication, media-heavy workflows, and multi-tenant SaaS platforms.
-
----
-
-### 🧩 About Me
-- 🚩 **Currently working on:**  
-  Architecting multi-tenant SaaS platforms using **Node.js, NestJS, MongoDB, Redis, AWS**, and microservices.  
-  Optimizing backend performance, cloud costs, and real-time user experiences.
-
-- 🧑‍🤝‍🧑 **Looking to collaborate on:**  
-  System design, backend architecture, microservices, high-concurrency platforms, scalable APIs, cloud engineering, and automation pipelines.
-
-- 💬 **Ask me about:**  
-  Backend architecture, performance tuning, microservices, REST API design, Redis caching, WebSockets/Socket.io, S3 media workflows, MongoDB optimization, CI/CD, and cloud cost reduction.
-
-- ⚡ **Fun fact:**  
-  I’ve reduced API latency by **55%**, cut AWS cloud costs by **25%**, and I enjoy debugging complex, high-impact backend issues.
+I’m a Backend Engineer and Tech Lead specializing in Node.js, NestJS, MongoDB, and AWS. I build scalable SaaS platforms, real-time communication systems, and high-performance backend architectures. Passionate about system design, cloud engineering, and solving complex performance challenges.
 
 ---
 
